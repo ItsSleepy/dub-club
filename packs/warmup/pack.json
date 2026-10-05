@@ -1,0 +1,17 @@
+{
+  "title": "Warm-up (no clips needed)",
+  "prompts": [
+    { "text": "\"I told you not to touch the red button.\"", "note": "as a deeply disappointed villain", "recordSeconds": 10 },
+    { "text": "\"Please keep your arms inside the ride at all times.\"", "note": "as an overexcited theme park announcer", "recordSeconds": 10 },
+    { "text": "\"That's not a sandwich. That's a cry for help.\"", "note": "as a posh food critic", "recordSeconds": 10 },
+    { "text": "\"We ride at dawn!\"", "note": "as an extremely tired knight", "recordSeconds": 8 },
+    { "text": "\"Who ate my yoghurt?\"", "note": "as a detective at the big reveal", "recordSeconds": 12 },
+    { "text": "\"The WiFi is down. We have maybe ten minutes.\"", "note": "as a disaster-movie scientist", "recordSeconds": 10 },
+    { "text": "\"I have never lost a game of rock, paper, scissors.\"", "note": "as a smug anime rival", "recordSeconds": 10 },
+    { "text": "\"Please leave a message after the tone.\"", "note": "as a horror-movie ghost", "recordSeconds": 10 },
+    { "text": "\"Ladies and gentlemen, the pizza has arrived.\"", "note": "as a boxing ring announcer", "recordSeconds": 10 },
+    { "text": "\"Is this the bus to Valletta?\"", "note": "as a lost pirate", "recordSeconds": 8 },
+    { "text": "\"Five more minutes, I'm almost done.\"", "note": "as a hushed nature documentary narrator", "recordSeconds": 12 },
+    { "text": "\"You call that a performance?\"", "note": "as a brutal talent show judge", "recordSeconds": 8 }
+  ]
+}

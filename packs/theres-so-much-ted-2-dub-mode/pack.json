@@ -1,0 +1,267 @@
+{
+  "type": "dub",
+  "title": "THERES SO MUCH - Ted 2 Dub Mode",
+  "authors": [
+    "Solar"
+  ],
+  "icon": "icon.png",
+  "video": "video.mp4",
+  "videoDur": 75.767,
+  "backing": "_backing_track.mp3",
+  "characters": [
+    "Ted",
+    "John"
+  ],
+  "cues": [
+    {
+      "time": 2.833,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Shit. I can never get a signal in your apartment.”",
+      "audio": "01_Ted.mp3",
+      "image": "01_Ted.png",
+      "dur": 2.583
+    },
+    {
+      "time": 5.55,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Hey can I use your laptop?”",
+      "audio": "02_Ted.mp3",
+      "image": "02_Ted.png",
+      "dur": 1.2
+    },
+    {
+      "time": 6.735,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Yeah go ahead”",
+      "audio": "201_John.mp3",
+      "image": "201_John.png",
+      "dur": 0.833
+    },
+    {
+      "time": 7.594,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Okay thanks.”",
+      "audio": "03_Ted.mp3",
+      "image": "03_Ted.png",
+      "dur": 1.05
+    },
+    {
+      "time": 13.352,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“WHAT THE FUCK”",
+      "audio": "04_Ted.mp3",
+      "image": "04_Ted.png",
+      "dur": 1.3
+    },
+    {
+      "time": 14.589,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Holy shit dude what's the matter?! What happened?!”",
+      "audio": "202_John.mp3",
+      "image": "202_John.png",
+      "dur": 2.517
+    },
+    {
+      "time": 17.126,
+      "characters": [
+        "John"
+      ],
+      "caption": "“What's going on?”",
+      "audio": "203_John.mp3",
+      "image": "203_John.png",
+      "dur": 0.983
+    },
+    {
+      "time": 18.16,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“THERE'S SO MUCH PORN!!”",
+      "audio": "05_Ted.mp3",
+      "image": "05_Ted.png",
+      "dur": 1.883
+    },
+    {
+      "time": 20.077,
+      "characters": [
+        "John"
+      ],
+      "caption": "“What the hell are you doin looking at my private shit??”",
+      "audio": "204_John.mp3",
+      "image": "204_John.png",
+      "dur": 1.917
+    },
+    {
+      "time": 22.027,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“What are you talkin about private shit Johnny it was wide open there were literally thousands of files here!”",
+      "audio": "06_Ted.mp3",
+      "image": "06_Ted.png",
+      "dur": 5.05
+    },
+    {
+      "time": 26.827,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Well I've been meaning to clear some of that out!”",
+      "audio": "205_John.mp3",
+      "image": "205_John.png",
+      "dur": 1.883
+    },
+    {
+      "time": 28.777,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Jesus Chri- look at the organization here, CLOCKWISE RIMJOB, COUNTER-CLOCKWISE RIMJOB?!”",
+      "audio": "07_Ted.mp3",
+      "image": "07_Ted.png",
+      "dur": 5.3
+    },
+    {
+      "time": 33.794,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Yeah well sometimes you like seeing the tongue go the other way!”",
+      "audio": "206_John.mp3",
+      "image": "206_John.png",
+      "dur": 2.283
+    },
+    {
+      "time": 36.077,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“You sick bastar- Look at this!”",
+      "audio": "08_Ted.mp3",
+      "image": "08_Ted.png",
+      "dur": 1.85
+    },
+    {
+      "time": 38.003,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“CHICKS WITH DICKS?!”",
+      "audio": "09_Ted.mp3",
+      "image": "09_Ted.png",
+      "dur": 1.2
+    },
+    {
+      "time": 39.625,
+      "characters": [
+        "John"
+      ],
+      "caption": "“ough my godd oh my god I have a disease alright I NEED HELP”",
+      "audio": "207_John.mp3",
+      "image": "207_John.png",
+      "dur": 3.517
+    },
+    {
+      "time": 43.177,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“THERE ARE NO CHICKS WITH DICKS JOHNNY ONLY GUYS WITH TITS!”",
+      "audio": "10_Ted.mp3",
+      "image": "10_Ted.png",
+      "dur": 2.767
+    },
+    {
+      "time": 45.884,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Well this is such a relief yakno I'M GLAD I'M FINALLY CAUGHT I-I -I WANTED TO BE CAUGHT!!”",
+      "audio": "208_John.mp3",
+      "image": "208_John.png",
+      "dur": 3.633
+    },
+    {
+      "time": 49.621,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Johnny, now you listen to me, this is a wake-up call, alright? You gotta get back out there and meet somebody because you are spiralling outta control here!”",
+      "audio": "11_Ted.mp3",
+      "image": "11_Ted.png",
+      "dur": 6.633
+    },
+    {
+      "time": 55.959,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Alright alright fine I WILL just stop looking at that shit PLEASE”",
+      "audio": "209_John.mp3",
+      "image": "209_John.png",
+      "dur": 2.683
+    },
+    {
+      "time": 58.627,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Johnny I mean it, alright the next chick you meet, you are getting back in the game.”",
+      "audio": "12_Ted.mp3",
+      "image": "12_Ted.png",
+      "dur": 3.6
+    },
+    {
+      "time": 62.331,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Fine, I got it, done.”",
+      "audio": "210_John.mp3",
+      "image": "210_John.png",
+      "dur": 1.2
+    },
+    {
+      "time": 63.535,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Alright, now let's get rid of this.”",
+      "audio": "13_Ted.mp3",
+      "image": "13_Ted.png",
+      "dur": 1.917
+    },
+    {
+      "time": 65.51,
+      "characters": [
+        "John"
+      ],
+      "caption": "“Wha-what do you mean let's just delete the files!”",
+      "audio": "211_John.mp3",
+      "image": "211_John.png",
+      "dur": 1.633
+    },
+    {
+      "time": 67.244,
+      "characters": [
+        "Ted"
+      ],
+      "caption": "“Nononono that shit can always be recovered, we gotta smash your laptop with a hammer.”",
+      "audio": "14_Ted.mp3",
+      "image": "14_Ted.png",
+      "dur": 3.717
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dub-club",
+  "version": "0.1.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^2.0.2",
+    "socket.io": "^4.8.1"
+  }
+}
