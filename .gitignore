@@ -36,3 +36,10 @@ packs/**/*.mp3
 packs/**/*.mp4
 packs/**/*.png
 inbox/
+
+# packs built from films/shows stay on the server
+packs/*
+!packs/warmup/
+# one-off patch scripts and old copies
+deploy/*.py
+deploy/backup-before-scenes/
